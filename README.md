@@ -32,4 +32,4 @@ src/
 
 ## License
 
-This project was created for educational purposes as part of a university AI course.
+This project was created for educational purposes as part of an Artificial Intelligence course during my Bachelor's degree studies.
