@@ -1,0 +1,14 @@
+# Build output
+build/
+dist/
+
+# NetBeans
+nbproject/private/
+
+# Eclipse
+.settings/
+bin/
+
+# OS
+Thumbs.db
+.DS_Store
