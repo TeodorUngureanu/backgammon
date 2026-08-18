@@ -23,25 +23,6 @@ src/
 └── WrongMoveException.java         # Custom exception for invalid moves
 ```
 
-## Requirements
-
-- Java 8 or newer (JDK)
-
-## How to run
-
-### From the command line
-
-```bash
-javac -d build/classes src/*.java
-java -cp build/classes Main
-```
-
-### From an IDE (Eclipse / NetBeans / IntelliJ)
-
-1. Import the project as a Java project (the project also includes NetBeans project files under `nbproject/`).
-2. Make sure the project is **not** configured as a Java module (no `module-info.java`) — the source files use the default package.
-3. Run `Main.java`.
-
 ## How to play
 
 - Colors: **White = `O`** (you), **Black = `X`** (computer).
