@@ -29,7 +29,3 @@ src/
 - On your turn, enter the starting position (1–24) for each die roll when prompted.
 - The board is redrawn after every move so you can track stone positions, the bar, and borne-off stones.
 - The game ends automatically once one side bears off all of their stones.
-
-## License
-
-This project was created for educational purposes as part of an Artificial Intelligence course during my Bachelor's degree studies.
